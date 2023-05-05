@@ -1,0 +1,14 @@
+.form {
+    width: 550px;
+}
+
+.container {
+    display: flex;
+    margin-left: 8px;
+}
+
+.title {
+    width: 300px;
+    margin: auto;
+    font-size: 19px;
+}

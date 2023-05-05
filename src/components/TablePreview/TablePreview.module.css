@@ -1,0 +1,29 @@
+.container {
+    height: 50px;
+    width: 100%;
+    background-color: #dadada;
+    border: 2px solid #777777;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+    cursor: pointer;
+}
+.container:hover {
+    background-color: #d5d5d5;
+}
+
+.name {
+    width: 100%;
+    margin: 20px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.icon:hover {
+    cursor: pointer;
+    color: #5e5e5e
+}

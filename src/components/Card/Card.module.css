@@ -1,0 +1,27 @@
+.card {
+
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 30px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0 , .1);
+}
+.title{
+    font-size: 20px;
+}
+.path {
+    padding: 5px;
+
+}
+
+.form {
+    width: 400px;
+}
+
+.response {
+    height: 150px;
+    background-color: #e8e8e8;
+    margin: 10px;
+    padding: 10px;
+    overflow: auto;
+    text-align: justify;
+}
